@@ -1,0 +1,7 @@
+{
+  "note": "Read by the app at launch. Raise ios.minimumVersion to make older versions ask for an update before they can be used; raise ios.latestVersion to suggest an update once.",
+  "ios": {
+    "minimumVersion": "1.0.0",
+    "latestVersion": "1.0.0"
+  }
+}
